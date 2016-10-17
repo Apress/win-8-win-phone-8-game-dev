@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TintedSprites_XNA", "TintedSprites_XNA\TintedSprites_XNA\TintedSprites_XNA.csproj", "{A3140778-B6E6-4FE9-847A-9476DE98D90C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TintedSprites_XNAContent", "TintedSprites_XNA\TintedSprites_XNAContent\TintedSprites_XNAContent.contentproj", "{07F00E8E-C7D5-4256-9D3D-079522DACB11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3140778-B6E6-4FE9-847A-9476DE98D90C}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{A3140778-B6E6-4FE9-847A-9476DE98D90C}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{A3140778-B6E6-4FE9-847A-9476DE98D90C}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{A3140778-B6E6-4FE9-847A-9476DE98D90C}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{A3140778-B6E6-4FE9-847A-9476DE98D90C}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{A3140778-B6E6-4FE9-847A-9476DE98D90C}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{07F00E8E-C7D5-4256-9D3D-079522DACB11}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{07F00E8E-C7D5-4256-9D3D-079522DACB11}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbitingSprite_XNA", "OrbitingSprite_XNA\OrbitingSprite_XNA\OrbitingSprite_XNA.csproj", "{88EE052C-3FD6-46A9-9718-591A029A63DF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "OrbitingSprite_XNAContent", "OrbitingSprite_XNA\OrbitingSprite_XNAContent\OrbitingSprite_XNAContent.contentproj", "{1F66BB97-2039-4E85-BE12-B8C106FB10D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88EE052C-3FD6-46A9-9718-591A029A63DF}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{88EE052C-3FD6-46A9-9718-591A029A63DF}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{88EE052C-3FD6-46A9-9718-591A029A63DF}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{88EE052C-3FD6-46A9-9718-591A029A63DF}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{88EE052C-3FD6-46A9-9718-591A029A63DF}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{88EE052C-3FD6-46A9-9718-591A029A63DF}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{1F66BB97-2039-4E85-BE12-B8C106FB10D3}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{1F66BB97-2039-4E85-BE12-B8C106FB10D3}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

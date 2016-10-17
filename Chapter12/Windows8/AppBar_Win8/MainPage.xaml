@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="AppBar_Win8.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppBar_Win8"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+
+        <TextBlock Text="AppBar Example" FontSize="50" Margin="15 15 0 0" />
+
+        <TextBlock Text="Right-click or swipe from the top or bottom edge to display the AppBar." FontSize="20" Margin="15 80 0 0" />
+    </Grid>
+
+
+    <Page.TopAppBar>
+        <AppBar x:Name="appbarTop" Background="#f08888ff">
+            <StackPanel Orientation="Horizontal">
+                <Button Style="{StaticResource RefreshAppBarButtonStyle}" Click="Button_Click_1" />
+                <Button Style="{StaticResource DownloadAppBarButtonStyle}" />
+                <Button Style="{StaticResource MailAppBarButtonStyle}" />
+                <Button Style="{StaticResource SearchAppBarButtonStyle}" />
+            </StackPanel>
+        </AppBar>
+    </Page.TopAppBar>
+    
+    <Page.BottomAppBar>
+        <AppBar x:Name="appbarBottom" Background="#80CCCCCC">
+            <Grid>
+                <StackPanel Orientation="Horizontal">
+                    <Button Style="{StaticResource CropAppBarButtonStyle}" />
+                    <Button Style="{StaticResource RotateCameraAppBarButtonStyle}" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                    <Button Style="{StaticResource ClosePaneAppBarButtonStyle}" />
+                    <Button Style="{StaticResource OpenPaneAppBarButtonStyle}" />
+                </StackPanel>
+            </Grid>
+        </AppBar>
+    </Page.BottomAppBar>
+
+
+
+</Page>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundMusic_XNA", "BackgroundMusic_XNA\BackgroundMusic_XNA\BackgroundMusic_XNA.csproj", "{93919A8C-6F11-4783-8EAC-F28D140EB291}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BackgroundMusic_XNAContent", "BackgroundMusic_XNA\BackgroundMusic_XNAContent\BackgroundMusic_XNAContent.contentproj", "{27CCF81B-B6A1-4426-9765-A79A119D018B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93919A8C-6F11-4783-8EAC-F28D140EB291}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{93919A8C-6F11-4783-8EAC-F28D140EB291}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{93919A8C-6F11-4783-8EAC-F28D140EB291}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{93919A8C-6F11-4783-8EAC-F28D140EB291}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{93919A8C-6F11-4783-8EAC-F28D140EB291}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{93919A8C-6F11-4783-8EAC-F28D140EB291}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{27CCF81B-B6A1-4426-9765-A79A119D018B}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{27CCF81B-B6A1-4426-9765-A79A119D018B}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

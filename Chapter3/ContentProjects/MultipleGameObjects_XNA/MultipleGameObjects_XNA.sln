@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleGameObjects_XNA", "MultipleGameObjects_XNA\MultipleGameObjects_XNA\MultipleGameObjects_XNA.csproj", "{50E35FFB-8F2D-47BD-B1C0-AD2F990F6848}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MultipleGameObjects_XNAContent", "MultipleGameObjects_XNA\MultipleGameObjects_XNAContent\MultipleGameObjects_XNAContent.contentproj", "{17CB3D34-9087-41F4-B8A8-18176A47666F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50E35FFB-8F2D-47BD-B1C0-AD2F990F6848}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{50E35FFB-8F2D-47BD-B1C0-AD2F990F6848}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{50E35FFB-8F2D-47BD-B1C0-AD2F990F6848}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{50E35FFB-8F2D-47BD-B1C0-AD2F990F6848}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{50E35FFB-8F2D-47BD-B1C0-AD2F990F6848}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{50E35FFB-8F2D-47BD-B1C0-AD2F990F6848}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{17CB3D34-9087-41F4-B8A8-18176A47666F}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{17CB3D34-9087-41F4-B8A8-18176A47666F}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

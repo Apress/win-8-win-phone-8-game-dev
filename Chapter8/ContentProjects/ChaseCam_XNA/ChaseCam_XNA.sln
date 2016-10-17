@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChaseCam_XNA", "ChaseCam_XNA\ChaseCam_XNA\ChaseCam_XNA.csproj", "{10C11CAA-F118-4AD8-BE31-5C135EF78583}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ChaseCam_XNAContent", "ChaseCam_XNA\ChaseCam_XNAContent\ChaseCam_XNAContent.contentproj", "{9463498A-3147-4C8F-9B2B-29328972488A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C11CAA-F118-4AD8-BE31-5C135EF78583}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{10C11CAA-F118-4AD8-BE31-5C135EF78583}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{10C11CAA-F118-4AD8-BE31-5C135EF78583}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{10C11CAA-F118-4AD8-BE31-5C135EF78583}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{10C11CAA-F118-4AD8-BE31-5C135EF78583}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{10C11CAA-F118-4AD8-BE31-5C135EF78583}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{9463498A-3147-4C8F-9B2B-29328972488A}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{9463498A-3147-4C8F-9B2B-29328972488A}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

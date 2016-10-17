@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundImage_XNA", "BackgroundImage_XNA\BackgroundImage_XNA\BackgroundImage_XNA.csproj", "{115AAC94-1F7F-43FE-91AF-7F91D6FABD91}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BackgroundImage_XNAContent", "BackgroundImage_XNA\BackgroundImage_XNAContent\BackgroundImage_XNAContent.contentproj", "{ABD81D7C-48E5-4F5D-AE6C-AF454241512D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115AAC94-1F7F-43FE-91AF-7F91D6FABD91}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{115AAC94-1F7F-43FE-91AF-7F91D6FABD91}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{115AAC94-1F7F-43FE-91AF-7F91D6FABD91}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{115AAC94-1F7F-43FE-91AF-7F91D6FABD91}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{115AAC94-1F7F-43FE-91AF-7F91D6FABD91}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{115AAC94-1F7F-43FE-91AF-7F91D6FABD91}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{ABD81D7C-48E5-4F5D-AE6C-AF454241512D}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{ABD81D7C-48E5-4F5D-AE6C-AF454241512D}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

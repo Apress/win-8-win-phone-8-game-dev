@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseDemo_XNA", "MouseDemo_XNA\MouseDemo_XNA\MouseDemo_XNA.csproj", "{2B1F6788-5E04-4478-BAF6-645FB0C1D48E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MouseDemo_XNAContent", "MouseDemo_XNA\MouseDemo_XNAContent\MouseDemo_XNAContent.contentproj", "{E5421843-6834-4201-A6C4-C3937D1F1E88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B1F6788-5E04-4478-BAF6-645FB0C1D48E}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{2B1F6788-5E04-4478-BAF6-645FB0C1D48E}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{2B1F6788-5E04-4478-BAF6-645FB0C1D48E}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{2B1F6788-5E04-4478-BAF6-645FB0C1D48E}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{2B1F6788-5E04-4478-BAF6-645FB0C1D48E}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{2B1F6788-5E04-4478-BAF6-645FB0C1D48E}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{E5421843-6834-4201-A6C4-C3937D1F1E88}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{E5421843-6834-4201-A6C4-C3937D1F1E88}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameAndXAML", "MonoGameAndXAML\MonoGameAndXAML\MonoGameAndXAML.csproj", "{4379A783-0446-4AF0-B0F2-5B8BC3C14805}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MonoGameAndXAMLContent", "MonoGameAndXAML\MonoGameAndXAMLContent\MonoGameAndXAMLContent.contentproj", "{91E51B5E-0899-446B-B4AE-9F990EF6791B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4379A783-0446-4AF0-B0F2-5B8BC3C14805}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{4379A783-0446-4AF0-B0F2-5B8BC3C14805}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{4379A783-0446-4AF0-B0F2-5B8BC3C14805}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{4379A783-0446-4AF0-B0F2-5B8BC3C14805}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{4379A783-0446-4AF0-B0F2-5B8BC3C14805}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{4379A783-0446-4AF0-B0F2-5B8BC3C14805}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{91E51B5E-0899-446B-B4AE-9F990EF6791B}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{91E51B5E-0899-446B-B4AE-9F990EF6791B}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

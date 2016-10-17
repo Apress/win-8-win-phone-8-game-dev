@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmicRocksPartIII_XNA", "CosmicRocksPartIII_XNA\CosmicRocksPartIII_XNA\CosmicRocksPartIII_XNA.csproj", "{CFA29BE3-651B-42A0-ADC3-C364CC2F7A29}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CosmicRocksPartIII_XNAContent", "CosmicRocksPartIII_XNA\CosmicRocksPartIII_XNAContent\CosmicRocksPartIII_XNAContent.contentproj", "{B9794354-BE65-48F2-A8CB-8EB56A702630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFA29BE3-651B-42A0-ADC3-C364CC2F7A29}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{CFA29BE3-651B-42A0-ADC3-C364CC2F7A29}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{CFA29BE3-651B-42A0-ADC3-C364CC2F7A29}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{CFA29BE3-651B-42A0-ADC3-C364CC2F7A29}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{CFA29BE3-651B-42A0-ADC3-C364CC2F7A29}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{CFA29BE3-651B-42A0-ADC3-C364CC2F7A29}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{B9794354-BE65-48F2-A8CB-8EB56A702630}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{B9794354-BE65-48F2-A8CB-8EB56A702630}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccelerometerDemo_XNA", "AccelerometerDemo_XNA\AccelerometerDemo_XNA\AccelerometerDemo_XNA.csproj", "{F5D40CEA-0438-4598-9FDF-79E12047C605}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "AccelerometerDemo_XNAContent", "AccelerometerDemo_XNA\AccelerometerDemo_XNAContent\AccelerometerDemo_XNAContent.contentproj", "{7D4EF7A8-41D5-4248-8F39-83F4F1732D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D40CEA-0438-4598-9FDF-79E12047C605}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{F5D40CEA-0438-4598-9FDF-79E12047C605}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{F5D40CEA-0438-4598-9FDF-79E12047C605}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{F5D40CEA-0438-4598-9FDF-79E12047C605}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{F5D40CEA-0438-4598-9FDF-79E12047C605}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{F5D40CEA-0438-4598-9FDF-79E12047C605}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{7D4EF7A8-41D5-4248-8F39-83F4F1732D43}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{7D4EF7A8-41D5-4248-8F39-83F4F1732D43}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

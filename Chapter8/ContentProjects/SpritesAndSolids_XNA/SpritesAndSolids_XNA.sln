@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpritesAndSolids_XNA", "SpritesAndSolids_XNA\SpritesAndSolids_XNA\SpritesAndSolids_XNA.csproj", "{D6A3D5E8-FB1C-42F0-A0F5-ED6B37946C6C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SpritesAndSolids_XNAContent", "SpritesAndSolids_XNA\SpritesAndSolids_XNAContent\SpritesAndSolids_XNAContent.contentproj", "{BFB67EC9-9270-408D-A1BC-3FD9747D7AF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6A3D5E8-FB1C-42F0-A0F5-ED6B37946C6C}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{D6A3D5E8-FB1C-42F0-A0F5-ED6B37946C6C}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{D6A3D5E8-FB1C-42F0-A0F5-ED6B37946C6C}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{D6A3D5E8-FB1C-42F0-A0F5-ED6B37946C6C}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{D6A3D5E8-FB1C-42F0-A0F5-ED6B37946C6C}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{D6A3D5E8-FB1C-42F0-A0F5-ED6B37946C6C}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{BFB67EC9-9270-408D-A1BC-3FD9747D7AF9}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{BFB67EC9-9270-408D-A1BC-3FD9747D7AF9}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

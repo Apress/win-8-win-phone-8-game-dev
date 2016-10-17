@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark_WP8", "Benchmark_WP8.csproj", "{F13744CE-A3B0-426B-8A4A-CF6F482B80CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameFramework_WP8", "..\..\GameFramework\GameFramework_WP8.csproj", "{8B369F84-3693-4BE0-81F1-37AE81DB89DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13744CE-A3B0-426B-8A4A-CF6F482B80CD}.Debug|ARM.ActiveCfg = Debug|ARM
+		{F13744CE-A3B0-426B-8A4A-CF6F482B80CD}.Debug|ARM.Build.0 = Debug|ARM
+		{F13744CE-A3B0-426B-8A4A-CF6F482B80CD}.Debug|ARM.Deploy.0 = Debug|ARM
+		{F13744CE-A3B0-426B-8A4A-CF6F482B80CD}.Debug|x86.ActiveCfg = Debug|x86
+		{F13744CE-A3B0-426B-8A4A-CF6F482B80CD}.Debug|x86.Build.0 = Debug|x86
+		{F13744CE-A3B0-426B-8A4A-CF6F482B80CD}.Debug|x86.Deploy.0 = Debug|x86
+		{F13744CE-A3B0-426B-8A4A-CF6F482B80CD}.Release|ARM.ActiveCfg = Release|ARM
+		{F13744CE-A3B0-426B-8A4A-CF6F482B80CD}.Release|ARM.Build.0 = Release|ARM
+		{F13744CE-A3B0-426B-8A4A-CF6F482B80CD}.Release|ARM.Deploy.0 = Release|ARM
+		{F13744CE-A3B0-426B-8A4A-CF6F482B80CD}.Release|x86.ActiveCfg = Release|x86
+		{F13744CE-A3B0-426B-8A4A-CF6F482B80CD}.Release|x86.Build.0 = Release|x86
+		{F13744CE-A3B0-426B-8A4A-CF6F482B80CD}.Release|x86.Deploy.0 = Release|x86
+		{8B369F84-3693-4BE0-81F1-37AE81DB89DA}.Debug|ARM.ActiveCfg = Debug|ARM
+		{8B369F84-3693-4BE0-81F1-37AE81DB89DA}.Debug|ARM.Build.0 = Debug|ARM
+		{8B369F84-3693-4BE0-81F1-37AE81DB89DA}.Debug|x86.ActiveCfg = Debug|x86
+		{8B369F84-3693-4BE0-81F1-37AE81DB89DA}.Debug|x86.Build.0 = Debug|x86
+		{8B369F84-3693-4BE0-81F1-37AE81DB89DA}.Release|ARM.ActiveCfg = Release|ARM
+		{8B369F84-3693-4BE0-81F1-37AE81DB89DA}.Release|ARM.Build.0 = Release|ARM
+		{8B369F84-3693-4BE0-81F1-37AE81DB89DA}.Release|x86.ActiveCfg = Release|x86
+		{8B369F84-3693-4BE0-81F1-37AE81DB89DA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

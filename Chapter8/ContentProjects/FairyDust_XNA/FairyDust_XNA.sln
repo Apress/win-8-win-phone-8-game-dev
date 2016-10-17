@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FairyDust_XNA", "FairyDust_XNA\FairyDust_XNA\FairyDust_XNA.csproj", "{68471B8E-49B3-4C31-9E38-483657CAC7AB}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FairyDust_XNAContent", "FairyDust_XNA\FairyDust_XNAContent\FairyDust_XNAContent.contentproj", "{7C9FA569-53D0-457A-8249-77BD6D694B62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68471B8E-49B3-4C31-9E38-483657CAC7AB}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{68471B8E-49B3-4C31-9E38-483657CAC7AB}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{68471B8E-49B3-4C31-9E38-483657CAC7AB}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{68471B8E-49B3-4C31-9E38-483657CAC7AB}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{68471B8E-49B3-4C31-9E38-483657CAC7AB}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{68471B8E-49B3-4C31-9E38-483657CAC7AB}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{7C9FA569-53D0-457A-8249-77BD6D694B62}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{7C9FA569-53D0-457A-8249-77BD6D694B62}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleModes_XNA", "MultipleModes_XNA\MultipleModes_XNA\MultipleModes_XNA.csproj", "{89D35DAD-F814-41C3-943E-650EC4DA0210}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MultipleModes_XNAContent", "MultipleModes_XNA\MultipleModes_XNAContent\MultipleModes_XNAContent.contentproj", "{C8259C35-F3D6-45F8-A3A2-C41B29AB7C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D35DAD-F814-41C3-943E-650EC4DA0210}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{89D35DAD-F814-41C3-943E-650EC4DA0210}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{89D35DAD-F814-41C3-943E-650EC4DA0210}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{89D35DAD-F814-41C3-943E-650EC4DA0210}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{89D35DAD-F814-41C3-943E-650EC4DA0210}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{89D35DAD-F814-41C3-943E-650EC4DA0210}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{C8259C35-F3D6-45F8-A3A2-C41B29AB7C01}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{C8259C35-F3D6-45F8-A3A2-C41B29AB7C01}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

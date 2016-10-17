@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text_XNA", "Text_XNA\Text_XNA\Text_XNA.csproj", "{886AD57A-9E42-4D69-A3C9-E48E2E31D3A5}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Text_XNAContent", "Text_XNA\Text_XNAContent\Text_XNAContent.contentproj", "{ACA57517-89BB-4EBF-A56D-4BB057403AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{886AD57A-9E42-4D69-A3C9-E48E2E31D3A5}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{886AD57A-9E42-4D69-A3C9-E48E2E31D3A5}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{886AD57A-9E42-4D69-A3C9-E48E2E31D3A5}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{886AD57A-9E42-4D69-A3C9-E48E2E31D3A5}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{886AD57A-9E42-4D69-A3C9-E48E2E31D3A5}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{886AD57A-9E42-4D69-A3C9-E48E2E31D3A5}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{ACA57517-89BB-4EBF-A56D-4BB057403AC3}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{ACA57517-89BB-4EBF-A56D-4BB057403AC3}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaporTrails_XNA", "VaporTrails_XNA\VaporTrails_XNA\VaporTrails_XNA.csproj", "{BBA4AFD2-B79A-4261-95E9-C7C563DA317E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "VaporTrails_XNAContent", "VaporTrails_XNA\VaporTrails_XNAContent\VaporTrails_XNAContent.contentproj", "{B421911C-9DF9-462D-8F9D-D9FA5F249B51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA4AFD2-B79A-4261-95E9-C7C563DA317E}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{BBA4AFD2-B79A-4261-95E9-C7C563DA317E}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{BBA4AFD2-B79A-4261-95E9-C7C563DA317E}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{BBA4AFD2-B79A-4261-95E9-C7C563DA317E}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{BBA4AFD2-B79A-4261-95E9-C7C563DA317E}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{BBA4AFD2-B79A-4261-95E9-C7C563DA317E}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{B421911C-9DF9-462D-8F9D-D9FA5F249B51}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{B421911C-9DF9-462D-8F9D-D9FA5F249B51}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

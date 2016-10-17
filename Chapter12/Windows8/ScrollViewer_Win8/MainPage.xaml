@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="ScrollViewer_Win8.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ScrollViewer_Win8"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+
+        <ScrollViewer Height="400" Width="350" Background="DarkSlateBlue">
+            <StackPanel Height="Auto" Width="Auto">
+                <TextBlock Text="ScrollViewer Example" FontSize="20" HorizontalAlignment="Center" Margin="0,20"/>
+                <Button Content="Button 1" Height="75" Width="250" HorizontalAlignment="Center" />
+                <Button Content="Button 2" Height="75" Width="250" HorizontalAlignment="Center" />
+                <Button Content="Button 3" Height="75" Width="250" HorizontalAlignment="Center" />
+                <Button Content="Button 4" Height="75" Width="250" HorizontalAlignment="Center" />
+                <Button Content="Button 5" Height="75" Width="250" HorizontalAlignment="Center" />
+                <Button Content="Button 6" Height="75" Width="250" HorizontalAlignment="Center" />
+                <Button Content="Button 7" Height="75" Width="250" HorizontalAlignment="Center" />
+                <Button Content="Button 8" Height="75" Width="250" HorizontalAlignment="Center" />
+            </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+</Page>

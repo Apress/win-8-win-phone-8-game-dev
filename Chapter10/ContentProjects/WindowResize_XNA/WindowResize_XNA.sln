@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowResize_XNA", "WindowResize_XNA\WindowResize_XNA\WindowResize_XNA.csproj", "{3FD8C24D-4499-4CC2-A553-91A75A94EABF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "WindowResize_XNAContent", "WindowResize_XNA\WindowResize_XNAContent\WindowResize_XNAContent.contentproj", "{031E3AA2-50DC-4DE6-8A2B-1AC2A13BD834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FD8C24D-4499-4CC2-A553-91A75A94EABF}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{3FD8C24D-4499-4CC2-A553-91A75A94EABF}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{3FD8C24D-4499-4CC2-A553-91A75A94EABF}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{3FD8C24D-4499-4CC2-A553-91A75A94EABF}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{3FD8C24D-4499-4CC2-A553-91A75A94EABF}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{3FD8C24D-4499-4CC2-A553-91A75A94EABF}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{031E3AA2-50DC-4DE6-8A2B-1AC2A13BD834}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{031E3AA2-50DC-4DE6-8A2B-1AC2A13BD834}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

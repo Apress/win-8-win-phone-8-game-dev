@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundEffects_XNA", "SoundEffects_XNA\SoundEffects_XNA\SoundEffects_XNA.csproj", "{280EE869-7652-4A63-ADDD-304C0773394C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SoundEffects_XNAContent", "SoundEffects_XNA\SoundEffects_XNAContent\SoundEffects_XNAContent.contentproj", "{0EED420E-A935-4E39-AF70-D99FC4CA1875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280EE869-7652-4A63-ADDD-304C0773394C}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{280EE869-7652-4A63-ADDD-304C0773394C}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{280EE869-7652-4A63-ADDD-304C0773394C}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{280EE869-7652-4A63-ADDD-304C0773394C}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{280EE869-7652-4A63-ADDD-304C0773394C}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{280EE869-7652-4A63-ADDD-304C0773394C}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{0EED420E-A935-4E39-AF70-D99FC4CA1875}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{0EED420E-A935-4E39-AF70-D99FC4CA1875}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

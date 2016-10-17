@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perspective_XNA", "Perspective_XNA\Perspective_XNA\Perspective_XNA.csproj", "{59B15E2C-7ADA-49E0-BD2C-0E7EF10D1D8C}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Perspective_XNAContent", "Perspective_XNA\Perspective_XNAContent\Perspective_XNAContent.contentproj", "{F1B4B64C-1F6C-463D-A89A-95FB933956AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B15E2C-7ADA-49E0-BD2C-0E7EF10D1D8C}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{59B15E2C-7ADA-49E0-BD2C-0E7EF10D1D8C}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{59B15E2C-7ADA-49E0-BD2C-0E7EF10D1D8C}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{59B15E2C-7ADA-49E0-BD2C-0E7EF10D1D8C}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{59B15E2C-7ADA-49E0-BD2C-0E7EF10D1D8C}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{59B15E2C-7ADA-49E0-BD2C-0E7EF10D1D8C}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{F1B4B64C-1F6C-463D-A89A-95FB933956AF}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{F1B4B64C-1F6C-463D-A89A-95FB933956AF}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

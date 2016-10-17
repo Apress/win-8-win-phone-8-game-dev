@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireAndSmoke_XNA", "FireAndSmoke_XNA\FireAndSmoke_XNA\FireAndSmoke_XNA.csproj", "{4222AE02-F4FC-4D60-9E4A-B81A5D5C5BEC}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FireAndSmoke_XNAContent", "FireAndSmoke_XNA\FireAndSmoke_XNAContent\FireAndSmoke_XNAContent.contentproj", "{53F342A7-58E2-4856-9AD8-71FA445BDA2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4222AE02-F4FC-4D60-9E4A-B81A5D5C5BEC}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{4222AE02-F4FC-4D60-9E4A-B81A5D5C5BEC}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{4222AE02-F4FC-4D60-9E4A-B81A5D5C5BEC}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{4222AE02-F4FC-4D60-9E4A-B81A5D5C5BEC}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{4222AE02-F4FC-4D60-9E4A-B81A5D5C5BEC}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{4222AE02-F4FC-4D60-9E4A-B81A5D5C5BEC}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{53F342A7-58E2-4856-9AD8-71FA445BDA2F}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{53F342A7-58E2-4856-9AD8-71FA445BDA2F}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
